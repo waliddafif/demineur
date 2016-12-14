@@ -1,9 +1,7 @@
 # demineur
-Minesweeper in C.
+Minesweeper in C (codeBlock).
 Play on console.
 
-#french
-
-Démineur développé en C.
+Démineur développé en C (codeBlock).
 Jouable sur console.
 
